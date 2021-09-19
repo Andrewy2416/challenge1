@@ -6,7 +6,7 @@ This week's challenge was to refractor code so that the application for Horiseon
 
 **Screenshot**
 
-![Horiseon Page] (https://ibb.co/wRmmfjj)
+(./assets/images/Horiseonscreenshotchallenge1.jpg)
 
 **Links**
 
