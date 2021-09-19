@@ -6,7 +6,7 @@ This week's challenge was to refractor code so that the application for Horiseon
 
 **Screenshot**
 
-(https://user-images.githubusercontent.com/89713438/133915277-96f2c91d-f683-451a-922f-a8cd2fa2e976.png)
+![screenshot](https://user-images.githubusercontent.com/89713438/133915277-96f2c91d-f683-451a-922f-a8cd2fa2e976.png)
 
 **Links**
 
